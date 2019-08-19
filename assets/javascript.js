@@ -16,7 +16,7 @@ axios.get(FULL_API_URL).then(response => {
 
         <div class="city-weather-info">
           <h1 class="city-current-temp">${city.main.temp.toFixed(0) + '°'}</h1>
-          <img class="city-weather-img" src ="http://openweathermap.org/img/w/${city.weather[0].icon + '.png'} "/>
+          <img class="city-weather-img" src ="https://openweathermap.org/img/w/${city.weather[0].icon + '.png'} "/>
           <h1 class="city-weather-desc">${city.weather[0].description}</h1>
           <h1 class="city-name">${city.name}</h1>
         </div>
