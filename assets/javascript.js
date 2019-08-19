@@ -1,6 +1,6 @@
 
 // API Params
-const API_URL       = 'http://api.openweathermap.org/data/2.5/group?';
+const API_URL       = 'https://api.openweathermap.org/data/2.5/group?';
 const API_KEY       = '4ac486aac118f6a11f8379252b09ab51&';
 const CITY_IDS 			= '2193733,2179537,2192362'; // Auckland, Wellington, Christchurch
 const UNITS					= 'units=metric';
