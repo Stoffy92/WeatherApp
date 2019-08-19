@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
-@import url("fontawesome-all.min.css");
+/* @import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
+@import url("fontawesome-all.min.css"); */
 
 /*
 	Aerial by HTML5 UP
@@ -680,6 +680,7 @@ input, select, textarea {
 
 		.city-name {
 			padding-left: 1em;
+			font-weight: 900;
 		}
 
 		.city-weather-img {
